@@ -12,5 +12,14 @@
   "devDependencies": {
     "eslint": "^6.0.0",
     "jest": "^24.8.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlumberParty/javascript-review-exercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SlumberParty/javascript-review-exercises/issues"
+  },
+  "homepage": "https://github.com/SlumberParty/javascript-review-exercises#readme"
 }
